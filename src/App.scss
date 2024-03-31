@@ -1,0 +1,9 @@
+$primary-color: #151515;
+
+body {
+  background-color: $primary-color;
+  &:hover {
+    background-color: #fff;
+  }
+}
+
